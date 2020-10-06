@@ -15,3 +15,11 @@ i hope to recerive the comment and advises from you!
 If you use this programme,please obey the law and don't use it to do something illegal!!
 
 ##
+The main problem
+1、How do I keep threads from looping without using too much CPU source？
+2、It is sometimes useless in the early few seconds.Can someone tell me why？
+
+##
+the plan:
+1、add comments.
+2、finish the other keys.
